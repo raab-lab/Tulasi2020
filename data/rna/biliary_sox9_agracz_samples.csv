@@ -1,0 +1,13 @@
+Sample,File,Group
+High_881,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms881_Sox9H_S4_R1_001.fastq.gz,High
+Low_881,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms881_Sox9L_S3_R1_001.fastq.gz,Low
+Neg_881,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms881_Sox9N_S1_R1_001.fastq.gz,Neg
+SL_881,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms881_Sox9SL_S2_R1_001.fastq.gz,SL
+High_883,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms883_Sox9H_S8_R1_001.fastq.gz,High
+Low_883,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms883_Sox9L_S7_R1_001.fastq.gz,Low
+Neg_883,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms883_Sox9N_S5_R1_001.fastq.gz,Neg
+SL_883,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/Ms883_Sox9SL_S6_R1_001.fastq.gz,SL
+High_MsA,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/MsA_Sox9H_S12_R1_001.fastq.gz,High
+Low_MsA,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/MsA_Sox9L_S11_R1_001.fastq.gz,Low
+Neg_MsA,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/MsA_Sox9N_S9_R1_001.fastq.gz,Neg
+SL_MsA,/proj/jraablab/users/jraab/collabs/agracz/sox9_biliary/data/rna/raw/MsA_Sox9SL_S10_R1_001.fastq.gz,SL
