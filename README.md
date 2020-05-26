@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/267152732.svg)](https://zenodo.org/badge/latestdoi/267152732)
+
+
 # Code associated with Tulasi et. al 2020
 
 The code was run using nextflow using the Slurm workload manager.
